@@ -2,6 +2,7 @@
 🤖 AI-Powered Financial Assistant for Secure and Instant Banking
 This project is an intelligent Banking Bot Assistant built using Amazon Lex, integrated with AWS Lambda and Amazon DynamoDB to provide real-time, secure account balance inquiries through natural language interactions.
 
+
 🚀 Features
 ✅ Natural Language Processing (NLP) – Uses Amazon Lex for understanding user queries
 ✅ Secure Data Access – Retrieves account details securely from DynamoDB
