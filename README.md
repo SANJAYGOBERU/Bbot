@@ -1,9 +1,3 @@
-Banking bot assistant fueled by Amazon Lex! Now, handling your finances is as simple as having a chat. Our assistant smoothly links up with DynamoDB, guaranteeing safe and swift access to your account specifics. Let's delve into how you can effortlessly check your account details using our banking assistant.
-Engage with our assistant using natural language. Just ask, and it will grasp your inquiries.
-Rest assured, your financial data is securely kept in DynamoDB, accessible solely through encrypted pathways.
-Receive instant updates on your account balance and additional information
-
-
 💰 Banking Bot Assistant – Powered by AWS Lex & DynamoDB
 🤖 AI-Powered Financial Assistant for Secure and Instant Banking
 This project is an intelligent Banking Bot Assistant built using Amazon Lex, integrated with AWS Lambda and Amazon DynamoDB to provide real-time, secure account balance inquiries through natural language interactions.
